@@ -1,5 +1,6 @@
 # Week15ProjBurkeV3
 Online Job Booking System using ASP.NET MVC
+
 In this project, I created an online booking system for a voice over talent.  This website gives some descriptive information on the talent so potential clients can
 better understand what kind of sound the talent offers.  There is also an About section with additional information where potential client can hear samples of the
 talent's previous work.  In addition to a page with the talent's contact information, there is a Booking tab.  This is where clients can request the talent for future
