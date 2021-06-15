@@ -7,5 +7,4 @@ talent's previous work.  In addition to a page with the talent's contact informa
 recording projects.  This is also where the talent can see pending jobs they have.  
 
 In future versions of this project, I'd like to get individual user authentication set up so clients can only see jobs they have booked while the talent can see any
-pending jobs.  I'd also like to add functionality where the user can upload a copy of the script and project notes for the talent when they enter their request.  
-Finally, I'd like to explore hosting options with Microsoft Azure.
+pending jobs.  I'd also like to add functionality where the user can upload a copy of the script and project notes for the talent when they enter their request. Finally, I'd like to explore hosting options with Microsoft Azure.
